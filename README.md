@@ -1,0 +1,2 @@
+# sbrkmp
+sborka kompjuterov
